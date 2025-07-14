@@ -1,0 +1,6 @@
+<svg style="background:midnightblue" xmlns="http://www.w3.org/2000/svg">
+  <title>dilated eye</title>
+  <circle fill="orchid" cx="50%" cy="50%" r="40%" />
+  <circle fill="purple" cx="50%" cy="50%" r="25%" />
+  <circle fill="indigo" cx="50%" cy="50%" r="15%" />
+</svg>
