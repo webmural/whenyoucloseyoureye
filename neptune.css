@@ -1,0 +1,41 @@
+::selection {
+  background: #ec0;
+  color: mediumblue;
+}
+
+:any-link {
+  box-shadow: 0 0 2em 1em lightsalmon;
+  background: lightsalmon;
+  color: purple;
+}
+
+goober {
+  box-shadow: 0 0 2em 1em turquoise;
+  background: turquoise;
+}
+
+.goophy {
+  box-shadow: 0 0 2em 1em purple;
+  background: purple;
+  color: salmon;
+}
+
+:any-link:hover {
+  background: thistle; 
+}
+
+:focus {
+  filter: hue-rotate(-36deg);
+  outline: .382rem dotted;
+}
+
+:active {
+  filter: hue-rotate(-18deg);
+  outline-style: solid;
+}
+
+html {
+  background: rebeccapurple;
+  background-image: linear-gradient(.9turn, turquoise 0%, transparent 20%, slateblue 80%, turquoise);
+  color: lavenderblush;
+}
